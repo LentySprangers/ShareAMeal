@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Share-A-Meal</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_myProfile">My profile</string>
+
+    <string name="fab_create_meal">Create meal</string>
+</resources>
